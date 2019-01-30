@@ -1,0 +1,36 @@
+
+Validation failed! com.assignement.portfolio.exception.ValidationException: Not a valid row!
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:21)
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:1)
+	at com.assignement.portfolio.manager.CustomerPortfolioDataManger.validateCustomerData(CustomerPortfolioDataManger.java:64)
+	at com.assignement.portfolio.manager.CustomerPortfolioManager.manageCustomerPortfolio(CustomerPortfolioManager.java:71)
+	at com.assignement.portfolio.MainRunner.main(MainRunner.java:23)
+for raw input fr       ff
+Validation failed! com.assignement.portfolio.exception.ValidationException: Not a valid row!
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:21)
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:1)
+	at com.assignement.portfolio.manager.CustomerPortfolioDataManger.validateCustomerData(CustomerPortfolioDataManger.java:64)
+	at com.assignement.portfolio.manager.CustomerPortfolioManager.manageCustomerPortfolio(CustomerPortfolioManager.java:71)
+	at com.assignement.portfolio.MainRunner.main(MainRunner.java:23)
+for raw input 
+Validation failed! com.assignement.portfolio.exception.ValidationException: DOB not Valid!
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:34)
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:1)
+	at com.assignement.portfolio.manager.CustomerPortfolioDataManger.validateCustomerData(CustomerPortfolioDataManger.java:64)
+	at com.assignement.portfolio.manager.CustomerPortfolioManager.manageCustomerPortfolio(CustomerPortfolioManager.java:71)
+	at com.assignement.portfolio.MainRunner.main(MainRunner.java:23)
+for raw input reee     ee         e3232322000000.3232
+Validation failed! com.assignement.portfolio.exception.ValidationException: First Name not Valid!
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:28)
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:1)
+	at com.assignement.portfolio.manager.CustomerPortfolioDataManger.validateCustomerData(CustomerPortfolioDataManger.java:64)
+	at com.assignement.portfolio.manager.CustomerPortfolioManager.manageCustomerPortfolio(CustomerPortfolioManager.java:71)
+	at com.assignement.portfolio.MainRunner.main(MainRunner.java:23)
+for raw input -wew     -33        02022001000000.3434
+Validation failed! com.assignement.portfolio.exception.ValidationException: Last Name not Valid!
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:31)
+	at com.assignement.portfolio.validator.CustomerValidator.validate(CustomerValidator.java:1)
+	at com.assignement.portfolio.manager.CustomerPortfolioDataManger.validateCustomerData(CustomerPortfolioDataManger.java:64)
+	at com.assignement.portfolio.manager.CustomerPortfolioManager.manageCustomerPortfolio(CustomerPortfolioManager.java:71)
+	at com.assignement.portfolio.MainRunner.main(MainRunner.java:23)
+for raw input tt       uuuuuuu   -02022011000000.2466

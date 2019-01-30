@@ -1,0 +1,6 @@
+|Model Name			|% in Equity Funds 	|% in Bond funds    |% in Cash funds    |Investor Age Range	|
+|-------------------|-------------------|-------------------|-------------------|-------------------|
+|Aggressive Growth	|80%				|10%				|10%				|0-40 Years			|
+|Growth				|70%				|20%				|10%				|41-55 Years		|
+|Income				|50%				|30%				|20%				|56-65 Years		|
+|Retirement			|20%				|30%				|50%				|65 and older		|
